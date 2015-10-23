@@ -1,0 +1,10 @@
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\ValidataCodingTask.exe.config
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\ValidataCodingTask.exe
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\ValidataCodingTask.pdb
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\obj\Debug\ValidataCodingTask.exe
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\obj\Debug\ValidataCodingTask.pdb
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\nunit.framework.dll
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\nunit.mocks.dll
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\nunit.framework.xml
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\obj\Debug\ValidataCodingTask.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\Validata\ValidataCodingTask\ValidataCodingTask\bin\Debug\ValidataCodingTask.XML
